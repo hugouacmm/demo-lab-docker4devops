@@ -4,6 +4,6 @@ Demo lab 4 devops
 * Demonios
 * Cliente
 * Obgetos
-- imagenes
-- Contenedores
+ imagenes
+ Contenedores
 * Servicios
